@@ -11,3 +11,5 @@
   <li><a href="https://swarup1996saha.github.io/design-animation/Theme-Switcher/ThemeSwitcher4/"><em>Demo 4</em></a></li>
 </ul>
 </details>
+
+- [Expandable Search Box](https://swarup1996saha.github.io/design-animation/Google-search)
