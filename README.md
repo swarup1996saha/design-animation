@@ -15,4 +15,4 @@
 - [Expandable Search Box](https://swarup1996saha.github.io/design-animation/Google-search)
 - [Animated Submit Button](https://swarup1996saha.github.io/design-animation/Thanks-button/)
 - [Header Design Using HTML & CSS](https://swarup1996saha.github.io/design-animation/Header-Design/)
-- [Video Slider Landing Page](https://swarup1996saha.github.io/design-animation/Video-Slider-Lnading-Page/)
+- [Video Slider Landing Page](https://swarup1996saha.github.io/design-animation/Video-Slider-Landing-Page/)
