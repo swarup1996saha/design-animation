@@ -17,3 +17,4 @@
 - [Header Design Using HTML & CSS](https://swarup1996saha.github.io/design-animation/Header-Design/)
 - [Video Slider Landing Page](https://swarup1996saha.github.io/design-animation/Video-Slider-Landing-Page/)
 - [Expanding Cards](https://swarup1996saha.github.io/design-animation/Expanding-cards/)
+- [Image hover using CSS](https://swarup1996saha.github.io/design-animation/facny-image-hover/)
