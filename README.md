@@ -15,7 +15,8 @@
 <details>
 <summary><strong>Image Hover CSS only</strong></summary>
 <ul>
-<li><a href="https://swarup1996saha.github.io/design-animation/facny-image-hover/"><em>Demo 1</em></a></li>
+<li><a href="https://swarup1996saha.github.io/design-animation/Image-Hover-CSS/imagehover1/"><em>Demo 1</em></a></li>
+ <li><a href="https://swarup1996saha.github.io/design-animation/Image-Hover-CSS/imagehover2/"><em>Demo 2</em></a></li>
 </ul>
 </details>
 
