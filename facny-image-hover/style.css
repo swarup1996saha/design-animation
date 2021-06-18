@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card{
+    flex-basis: 20%;
+    transition: filter 0.4s ease;
+}
+
+.card img{
+    width: 100%;
+    border-radius: 17% 83% 70% 30% / 51% 62% 38% 49% ;
+    transition: 0.4s ease-in-out;
+}
+.card:hover img{
+    border-radius: 10%;
+}
+.card:hover{
+    filter: grayscale(100%);
+}
+
+h1{
+    text-align: center;
+    margin-top: 35px;
+    padding: 16px;
+    position: relative;
+    opacity: 0;
+    transition: 0.4s ease-in-out;
+}
+
+h1::before{
+    content: '';
+    position: absolute;
+    width: 0%;
+    height: 2px;
+    background-color: red;
+    bottom: 0;
+    transition: 0.8s linear;
+}
+
+.card:hover h1::before{
+    width: 70%;
+}
+.card:hover h1{
+    opacity: 1;
+}
